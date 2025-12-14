@@ -1,1 +1,1 @@
-print("I am somewhat familiar with Git")
+print("I am somewhat familiar with Git, and I just made my first change")
