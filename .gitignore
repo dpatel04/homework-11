@@ -1,0 +1,19 @@
+# Ignore compiled / generated files
+*.pyc
+*.exe
+*.class
+
+# Ignore backup files
+*~
+
+# Ignore screenshots and documents
+*.png
+*.jpg
+*.jpeg
+*.doc
+*.docx
+*.pdf
+
+# Ignore IDE / editor folders
+.vscode/
+.idea/
