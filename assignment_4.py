@@ -1,1 +1,1 @@
-print("in dev branch I write code on the third row")
+print("I'm familir with Git now because I'm learning")
