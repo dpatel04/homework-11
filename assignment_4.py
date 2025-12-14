@@ -1,1 +1,1 @@
-print("Hello World, welcome to git stash")
+print("I'm familir with Git now")
